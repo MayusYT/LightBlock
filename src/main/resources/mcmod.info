@@ -1,0 +1,15 @@
+[
+{
+  "modid": "lightblock",
+  "name": "Lightblock!",
+  "description": "A coding challenge by hiotewdew about dynamic lighting! Adds a block that changes light levels on left/right click.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MayusYT"],
+  "credits": "MayusYT",
+  "logoFile": "",
+  "screenshots": []
+}
+]

@@ -1,0 +1,32 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "cube_all",
+    "textures": {
+      "particle": "lightblock:blocks/level0",
+      "all": "lightblock:blocks/level0"
+    }
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "lightlevel": {
+      "0": { "textures": { "all": "lightblock:blocks/level0" } },
+      "1": { "textures": { "all": "lightblock:blocks/level1" } },
+      "2": { "textures": { "all": "lightblock:blocks/level2" } },
+      "3": { "textures": { "all": "lightblock:blocks/level3" } },
+      "4": { "textures": { "all": "lightblock:blocks/level4" } },
+      "5": { "textures": { "all": "lightblock:blocks/level5" } },
+      "6": { "textures": { "all": "lightblock:blocks/level6" } },
+      "7": { "textures": { "all": "lightblock:blocks/level7" } },
+      "8": { "textures": { "all": "lightblock:blocks/level8" } },
+      "9": { "textures": { "all": "lightblock:blocks/level9" } },
+      "10": { "textures": { "all": "lightblock:blocks/level10" } },
+      "11": { "textures": { "all": "lightblock:blocks/level11" } },
+      "12": { "textures": { "all": "lightblock:blocks/level12" } },
+      "13": { "textures": { "all": "lightblock:blocks/level13" } },
+      "14": { "textures": { "all": "lightblock:blocks/level14" } },
+      "15": { "textures": { "all": "lightblock:blocks/level14" } }
+    }
+  }
+}
